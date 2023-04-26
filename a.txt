@@ -3,3 +3,5 @@ payload:
   - PROCESS-NAME,hysteria.exe
   - PROCESS-NAME,PikPak
   - PROCESS-NAME,PikPak.exe
+  - PROCESS-NAME,DownloadServer
+  - PROCESS-NAME,DownloadServer.exe
